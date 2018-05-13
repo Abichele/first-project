@@ -1,0 +1,123 @@
+
+.bd{
+  background-color: rgba(150, 200, 220, 0.5);
+}
+
+.home{
+  background-color: rgba(150, 200, 2500, 0.5);
+}
+
+.in{
+    margin-left: 350px;
+    margin-right: 280px;
+    background-color: gray;
+    height: auto;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.james{
+  position:relative;
+  margin-top: -170px;
+  padding: 5px;
+  border-radius: 5px;
+  border-width: 4px;
+
+}
+
+.james img{
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.ul li{
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  width: 200px;
+  text-align: center;
+  font-size: 170%;
+}
+
+.ul li:hover{
+  background-color: green;
+  color: white;
+}
+
+.pat{
+  margin-left: 300px;
+  margin-right: 500px;
+  border-radius: 4px;
+  padding: 4px;
+  background-color: gray;
+}
+
+.pat h2{
+  color: green;
+  text-align: center;
+  font-family: cursive;
+}
+
+.index {
+  margin-left: 400px;
+  font-size: 300%;
+  font-weight: 1000px;
+  font-stretch: 500px;
+  font-family: Brush script MT;
+  color: green;
+}
+
+.Tech{
+  margin-left: 400px;
+  margin-right: 300px;
+  background-color: rgba(100, 100, 250, 1);
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.Tech img{
+  margin-left: 200px;
+  padding: 4px;
+  border-radius: 10px;
+}
+
+.contacts{
+  background-color: gray;
+  margin-left: 350px;
+  margin-right: 300px;
+  height: auto;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.contacts label{
+  display: block;
+  text-align: left;
+  padding: 4px;
+  margin: 2px;
+}
+
+.aq {
+  background: rgb (0, 200, 220);
+  margin-left: 348px;
+  margin-right: 300px;
+}
+
+.logo{
+  background-color: gray;
+  padding: 4px;
+  border-radius: 2px 2px;
+}
+
+.error{
+  width: 92%;
+  margin: 0px auto;
+  margin: 10px;
+  border: 1px solid red;
+  color: red;
+  border-radius: 5px;
+  background-color: orange;
+}
